@@ -23,8 +23,10 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 </div>
 
 ### :woman_technologist: GetInfo() => "Backend Developer";
-  - 🔭 I’m working on No-Code and CRM systems and also on my pet projects.
-  - 🌱 I’m learning microservices, RabbitMQ, Redis, Docker, ElasticSearch and so on.
+  - 🚀 I graduated from the Moscow Aviation Institute with a degree in Automated Information Processing and Control Systems (АСОиУ)
+  - 🐴 I’m working on No-Code, Low-Code, CRM and BPM systems and also on my pet projects.
+  - 🐌 I’m learning microservices, RabbitMQ, Redis, Docker, Elasticsearch and so on.
+  - 🦉 "Sava" in my nickname means misspelled "owl" in Russian
 
 <!--
 ### :fire: My Stats :
